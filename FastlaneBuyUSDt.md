@@ -1,4 +1,4 @@
-# API documentation for Variance Exchange Module: Fastlane Buy USDt over fiat gateway function
+# API documentation for Exchange Module: Fastlane Buy USDt over fiat gateway function
 version: 1.0
 
 RESTful API for VEM backend. Default output is NON pretty printed JSON.
